@@ -1,4 +1,5 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Gourab Paul
+![Gourab Paul](https://user-images.githubusercontent.com/78965510/165433709-03c8f469-f950-4265-808b-14fec68e7eac.png)
 ============================
 
 Web Developer
