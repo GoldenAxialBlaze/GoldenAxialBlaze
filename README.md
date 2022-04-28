@@ -1,4 +1,4 @@
-![banner1](https://user-images.githubusercontent.com/78965510/165436207-0c784069-e7df-4728-b5ac-3a774c68dded.png)
+![github-banner](https://user-images.githubusercontent.com/78965510/165685428-c3592da0-3d28-461c-b628-165f3edb7548.png)
 
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Gourab Paul
 ============================
