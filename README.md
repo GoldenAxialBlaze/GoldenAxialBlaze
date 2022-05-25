@@ -6,7 +6,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 Web Developer
 -------------
 
-I have started my Web Development Journey from 2018 with PHP. Built few websites with full frontend and backend. Currently working in Capitall as a Laravel Developer.
+I started my Web Development Journey from 2018 with PHP. Built few websites with full frontend and backend. Currently working at Capitall as a Laravel Developer.
 
 * 🌍  I'm based in Berhampore, West Bengal
 * 🖥️  See my portfolio at [https://gourab-paul-portfolio.000webhostapp.com/](https://gourab-paul-portfolio.000webhostapp.com/)
