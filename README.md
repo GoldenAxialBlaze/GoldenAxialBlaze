@@ -11,8 +11,8 @@ I have started my Web Development Journey from 2018 with PHP. Built few websites
 * 🌍  I'm based in Berhampore, West Bengal
 * 🖥️  See my portfolio at [https://gourab-paul-portfolio.000webhostapp.com/](https://gourab-paul-portfolio.000webhostapp.com/)
 * ✉️  You can contact me at [goldenpaul1999@gmail.com](mailto:goldenpaul1999@gmail.com)
-* 🚀  Developer at [Womennovators.com](https://womennovators.com/)
-* 🚀  Developer at [Wemark.com](https://wedistributors.womennovators.com/)
+* 🚀  Lead Developer at [Womennovators.com](https://womennovators.com/)
+* 🚀  Lead Developer at [Wemark.com](https://wedistributors.womennovators.com/)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Laravel Projects
 * ⚡  I love to watch anime in my spare time ❤
