@@ -10,7 +10,7 @@ I started my Web Development Journey from 2018 with PHP. Now I'm an Experienced 
 
 * 🌍  I'm based in Berhampore, West Bengal
 * ✉️  You can contact me at [gourabpaul.official@gmail.com](mailto:gourabpaul.official@gmail.com)
-* 🚀  Laravel Developer at [Weaversweb.com](https://weaversweb.com/)
+* 🚀  Laravel Developer at [weaversweb.com](https://weaversweb.com/)
 * 🧠  I'm learning Vue
 * 🤝  I'm open to collaborating on Laravel Projects
 * ⚡  I love to watch anime in my spare time ❤
@@ -43,7 +43,5 @@ I started my Web Development Journey from 2018 with PHP. Now I'm an Experienced 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/GoldenAxialBlaze"><img src="https://github-readme-stats.vercel.app/api?username=GoldenAxialBlaze&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GoldenAxialBlaze's GitHub stats" /></a>
-
-<a href="http://www.github.com/GoldenAxialBlaze"><img src="https://activity-graph.herokuapp.com/graph?username=GoldenAxialBlaze&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/GoldenAxialBlaze" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenAxialBlaze&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
